@@ -4,7 +4,7 @@ This project aims to build a machine learning model to detect fraudulent financi
  #🔍 Problem Statement
 Identify whether a transaction is fraudulent (isFraud = 1) or not (isFraud = 0) using various features like transaction type, amount, account balances, and system flags.
 
- #Dataset
+# Dataset
 Contains 10 columns and ~6.3 million rows.
 
 Key features: type, amount, oldbalanceOrg, newbalanceOrg, newbalanceDest, isFlaggedFraud
@@ -24,7 +24,7 @@ Performance evaluation using Precision, Recall, F1-Score, ROC-AUC
 
 Feature importance analysis
 
-📈 Results
+# 📈 Results
 Accuracy: 99.96%
 
 ROC-AUC: 0.90
